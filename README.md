@@ -1,14 +1,14 @@
 # Customer_Churn_Power_BI
 Telecom Customer Churn dataset containing customer demographics, service subscriptions, billing details, contract information, tenure, payment methods, and churn status. Used for Power BI dashboard analysis, churn prediction, customer retention insights, and business intelligence reporting.
 # Customer Churn Dataset
-Overview
+### Overview
 
 This repository contains the dataset used for the Customer Churn Analysis Dashboard project developed in Power BI. The dataset includes telecom customer information related to demographics, service subscriptions, contracts, billing, tenure, payment methods, and churn status.
 
 The data is used to analyze customer behavior, identify churn trends, and generate business insights for improving customer retention.
 
 # Dataset Contents
-Customer Details
++ Customer Details
 
 Customer ID
 
