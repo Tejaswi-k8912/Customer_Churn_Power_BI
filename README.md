@@ -102,6 +102,9 @@ Revenue Loss
 
 # Usage
 Download the dataset files.
+
 Open the Power BI project (.pbix) file.
+
 Load the dataset into Power BI.
+
 Explore interactive dashboards and insights
