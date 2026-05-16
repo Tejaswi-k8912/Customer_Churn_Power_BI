@@ -9,26 +9,16 @@ The data is used to analyze customer behavior, identify churn trends, and genera
 
 # Dataset Contents
 + Customer Details
-
-Customer ID
-
-Gender
-
-Senior Citizen Status
-
-Partner & Dependents Information
-
-Service Information
-
-Phone Service
-
-Internet Service
-
-Tech Support
-
-Online Security
-
-Streaming Services
++ Customer ID
++ Gender
++ Senior Citizen Status
++ Partner & Dependents Information
++ Service Information
++ Phone Service
++ Internet Service
++ Tech Support
++ Online Security
++ Streaming Services
 
 Device Protection
 
